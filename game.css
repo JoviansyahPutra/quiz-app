@@ -1,6 +1,9 @@
 /* KALAU ELEMEN MENGGUNAKAN ID MAKA MEMAKAI . UNTUK KUSTOMISASI */
 /* KALAU ELEMEN MENGGUNAKAN CLASS MAKA MEMAKAI # UNTUK KUSTOMISASI */
 
+#question {
+    margin-top: 2rem;
+}
 
 .choice-container {
     display: flex;
